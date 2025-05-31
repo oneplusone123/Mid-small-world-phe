@@ -104,7 +104,7 @@ Smith, Will was in "Enemy of the State" with Hackman, Gene
 Hackman, Gene was in "The Royal Tenenbaums" with Bacon, Kevin
 ```
 Here is an example of the program's output:
-![Java Program Output](/Users/grand./Desktop/截屏2025-05-31\ 17.13.40.png)
+![Java Program Output](./images/截屏2025-05-31%2017.13.40.png)
 
 ## Project Structure
 
